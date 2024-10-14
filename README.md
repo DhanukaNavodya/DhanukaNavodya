@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Dhanuka Navodya
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me dhanukanavodya97@gmail.com
